@@ -1,3 +1,3 @@
 # wrong-linkedin
 
-made by me
+made by me, just for fun.
